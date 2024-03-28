@@ -1,9 +1,28 @@
 h1 {
     background-color: aqua;
 }
+
+p {
+    font-size: x-large;
+}
+
 .ads {
     font-size: x-large;
     background-color: beige;
+}
+
+.engsoft {
+    color: blueviolet;
+}
+
+.meu-nome {
+    text-align: center;
+}
+
+.java {
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
 }
 
 #devfront {
